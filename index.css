@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    font-style: italic;
+    background-color:antiquewhite;
+}
+
+
+h2 {
+    text-align: center;
+    font-style: italic;
+    background-color:antiquewhite;
+}
+
+article-1 {
+    
+    text-indent: 350px;
+    list-style-position: inside;
+}
+article-2 {
+    text-indent: 350px;
+    list-style-position: inside;
+}
